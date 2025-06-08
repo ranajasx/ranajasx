@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaspreet Rana! @ranajasx
 - 👀 I’m interested in wireless technology, network security and infosec systems.
-- 🌱 I’m currentlly exploring networking domain, trying to learn soemthing new everyday! Exploring network security oppurtunities to start my career.
+- 🌱 I’m currentlly exploring networking domain, trying to learn something new everyday! Exploring network security oppurtunities to start my career.
 - 📫 How to reach me Email - jassrana2005@gmail.com
 
 <!---
